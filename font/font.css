@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: 'Rawline';
+    font-weight: 300;
+    src: local('Rawline Light'), url('rawline-300.woff') format('woff');
+    }
+@font-face {
+    font-family: 'Rawline';
+    font-weight: 400;
+    src: local('Rawline Regular'), url('rawline-400.woff') format('woff');
+    }
+    @font-face {
+    font-family: 'Rawline';
+    font-weight: 500;
+    src: local('Rawline Medium'), url('rawline-500.woff') format('woff');
+    }
+@font-face {
+    font-weight: 600;
+    src: local('Rawline SemiBold'), url('rawline-600.woff') format('woff');
+    }
+@font-face {
+    font-family: 'Rawline';
+    font-weight: 700;
+    src: local('Rawline Bold'), url('rawline-700.woff') format('woff');
+    }
+    
+
